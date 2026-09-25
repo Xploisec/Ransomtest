@@ -1,4 +1,4 @@
-# Ransomware_emulation
+
 
 Install-Module -Name PS2EXE -Force -Scope CurrentUser
 
